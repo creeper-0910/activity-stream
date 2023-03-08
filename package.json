@@ -11,7 +11,7 @@
     "fluent-react": "0.9.0",
     "react": "16.14.0",
     "react-dom": "16.13.0",
-    "react-redux": "7.0.3",
+    "react-redux": "8.0.5",
     "react-transition-group": "4.4.5",
     "redux": "4.0.1",
     "reselect": "4.1.7"
